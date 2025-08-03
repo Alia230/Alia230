@@ -33,11 +33,11 @@
 
 ###
 
-<h2 align="left">Flutter</h2>
+<h2 align="left">Flutter (Dart)</h2>
 
 ###
 
-<p align="left"></p>
+<h2 align="left">Web platforms (Glid - Azure )</h2>
 
 ###
 
